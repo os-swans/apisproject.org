@@ -1,3 +1,3 @@
 # Apis Project
 
-WIP
+Static site for the Apis Project.
