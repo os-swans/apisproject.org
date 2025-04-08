@@ -23,10 +23,18 @@
   {{ end }}
   <div class="relative flex flex-col grow">
     <main id="main-content" class="grow">
-      {{ block "main" . }}{{ end }}
-      {{ if and (.Site.Params.footer.showScrollToTop | default true) (gt .WordCount 1) }}
-      {{- partial "scroll-to-top.html" . -}}
-      {{ end }}
+  {{ block "main" . }}{{ end }}
+
+  <!-- Check if the layout is 'card' -->
+  {{ if eq .Site.Params.homepage.layout "card" }}
+    <div class="card-layout">
+      <!-- Display homepage image -->
+      <img src="{{ .Site.Params.homepage.homepageImage }}" alt="Homepage Image" class="card-image">
+      <h2>Welcome to Our Investigations</h2>
+      <p>Explore the latest investigations and insights!</p>
+    </div>
+  {{ end }}
+
     </main>
     {{- partial "footer.html" . -}}
     {{ if .Site.Params.enableSearch | default false }}
