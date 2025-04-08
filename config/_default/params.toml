@@ -50,7 +50,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showMoreLinkDest = "/posts/"
   cardView = false
   cardViewScreenWidth = false
-  layoutBackgroundBlur = trie # only used when layout equals background
+  layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
   showDate = true
