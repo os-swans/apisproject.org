@@ -22,7 +22,7 @@ weight = 15
 
 [[main]]
   pre = "bluesky"
-  name = "Bluesky"
+  name = ""
   url = "https://bsky.app/profile/apisproject.bsky.social"
   weight = 30
 
