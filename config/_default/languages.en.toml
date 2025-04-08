@@ -17,9 +17,9 @@ title = "APIS PROJECT"
 [params.author]
   name = "APIS PROJECT"
   email = "apisproject@proton.me"
-  image = "img/blowfish_logo.png"
+  image = "img/Frame 25.png"
   imageQuality = 96
-  headline = "Open-Source Intelligence Investigations and Analysis."
+  headline = "OPEN-SOURCE INTELLIGENCE AND ANALYSIS"
   bio = "We are a dedicated volunteer group of investigators and intelligence analysts specialising in Open-Source Intelligence (OSINT)."
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
