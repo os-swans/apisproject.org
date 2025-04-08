@@ -20,6 +20,12 @@ name = "About Us"
 pageRef = "about us"
 weight = 15
 
+[[main]]
+  pre = "bluesky"
+  name = "Bluesky"
+  url = "https://bsky.app/profile/apisproject.bsky.social"
+  weight = 30
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20
