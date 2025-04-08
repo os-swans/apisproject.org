@@ -1,7 +1,7 @@
 ---
-description: We publish comprehensive investigations on hostile actors, influence and information operations, and political developments in fragile, confict-affected regions.
+description: Welcome to the APIS PROJECT.
 ---
-Welcome to the APIS PROJECT. We are a collective of investigators and intelligence analysts dedicated to documenting harmful activities by state and non-state actors. Our expertise covers human rights violations, influence and information operations, dis/mis-information, and political developments in fragile and conflict-affected geographies. 
+We are a collective of investigators and intelligence analysts dedicated to documenting harmful activities by state and non-state actors. Our expertise covers human rights violations, influence and information operations, dis/mis-information, and political developments in fragile and conflict-affected geographies. 
 
 Our aim is to use open-source intelligence (OSINT) tools and methodologies to monitor harmful activities and expose those responsible for them. 
 
