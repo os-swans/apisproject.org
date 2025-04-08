@@ -12,6 +12,7 @@
 
 [[main]]
 name = "Investigations"
+parent = "investigations"
 pageRef = "investigations"
 weight = 10
 
