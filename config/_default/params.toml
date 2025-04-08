@@ -40,17 +40,17 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
-
+  
 [homepage]
-  layout = "card"  # This enables the card layout for the homepage
-  homepageImage = "/themes/blowfish/images/homepage.jpg"  # Correct path to your image in the theme
-  showRecent = true  # Optionally display recent posts
-  showRecentItems = 5  # How many recent posts to display
-  showMoreLink = false  # Optionally show a "More" link
-  showMoreLinkDest = "/posts/"  # Destination URL for the "More" link
-  cardView = true  # Enable card view layout
-  cardViewScreenWidth = true  # Make card layout responsive to screen width
-  layoutBackgroundBlur = false  # Only used when layout equals background
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "/themes/blowfish/images/homepage.jpg" # used in: hero, and card
+  showRecent = true
+  showRecentItems = 5
+  showMoreLink = false
+  showMoreLinkDest = "/posts/"
+  cardView = false
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = trie # only used when layout equals background
 
 [article]
   showDate = true
