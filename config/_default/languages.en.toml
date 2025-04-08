@@ -15,12 +15,12 @@ title = "APIS PROJECT"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "Apis Project"
-  # email = "youremail@example.com"
+  name = "APIS PROJECT"
+  email = "apisproject@proton.me"
   image = "img/blowfish_logo.png"
   imageQuality = 96
-  headline = "An open source intelligence montoring project."
-  # bio = "A little bit about you"
+  headline = "Open-Source Intelligence Investigations and Analysis."
+  bio = "We are a dedicated volunteer group of investigators and intelligence analysts specialising in Open-Source Intelligence (OSINT)."
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
