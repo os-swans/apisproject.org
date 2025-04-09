@@ -12,17 +12,17 @@
 
 [[main]]
 name = "Investigations"
-pageRef = "investigations"
+url = "/investigations/"
 weight = 10
 
 [[main]]
 name = "Blog"
-pageRef = "blog"
+url = "/blog/"
 weight = 15
 
 [[main]]
 name = "Our Services"
-url = "our-services/"
+url = "/our-services/"
 weight = 16
 
 [[main]]
