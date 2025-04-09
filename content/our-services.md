@@ -7,26 +7,17 @@ While our core mission focuses on documenting and exposing harmful practices by 
 
 With a proven track record working with international organisations, NGOs, and governments, our team offers:
 
-## Enhanced Due Diligence Reports
-In-depth investigations into entities linked to conflict zones, armed groups, or state actors.
+- **Enhanced Due Diligence Reports** and investigations into entities linked to conflict zones, armed groups, or state actors.
+- **Strategic Trade Risk Assessments** identifying risks in dual-use goods supply chains, front companies, and sanction circumvention tactics.
+- **Red Flag Identification & Country Risk Briefings** on emerging threats, sanctions, and regional actors.
+- **Pre-Transaction Advisory for High-Risk Markets** to support M&A, supply chain, and compliance decisions.
 
-## Strategic Trade Risk Assessments & Training
-Identifying risks in dual-use goods supply chains, front companies, and sanction circumvention tactics, with tailored training for your teams.
+We also provide consulting and tailored training services for media organisations, NGOs, and law enforcement, using our expertise of OSINT tools and methodologies to conduct human rights and conflict analysis.
 
-## Red Flag Identification & Country Risk Briefings
-Briefings on emerging threats, sanctions, and regional actors.
-
-## Pre-Transaction Advisory for High-Risk Markets
-Confidential reviews to support M&A, supply chain, and compliance decisions.
-
-We also provide consulting and training services for media organisations, NGOs, and law enforcement, using our expertise in human rights and conflict analysis to offer actionable insights.
-
----
-
-# Why Choose Us?
+## Why Choose Us?
 
 - **Multilingual OSINT capabilities** and advanced network analysis
 - **Region-specific expertise** in the Sahel, Russia, Central Asia, Afghanistan, Iran, the GCC, and South Asia
 - **Fast turnaround**, discreet handling, and tailored deliverables
 
-Want to hire us? Reach out at apisproject@proton.me
+## Want to hire us? Reach out at apisproject@proton.me or on any of our socials.
