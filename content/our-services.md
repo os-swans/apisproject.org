@@ -17,7 +17,8 @@ We also provide consulting and tailored training services for media organisation
 ## Why Choose Us?
 
 - **Multilingual OSINT capabilities** and advanced network analysis
-- **Region-specific expertise** in the Sahel, Russia, Central Asia, Afghanistan, Iran, the GCC, and South Asia
+- **Region-specific expertise** on the Sahel, north and central Africa, Russia, China, and Iran.
 - **Fast turnaround**, discreet handling, and tailored deliverables
 
-## Want to hire us? Reach out at apisproject@proton.me or on any of our socials.
+## Want to hire us? 
+Reach out at apisproject@proton.me or on any of our socials.
