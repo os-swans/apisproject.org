@@ -4,6 +4,6 @@ cascade:
   showReadingTime: true
   showDate: true
   ShowWordCount: false
-  showYear: false
+  groupByYear: false
 ---
 
