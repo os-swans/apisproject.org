@@ -23,19 +23,19 @@ weight = 15
 [[main]]
 name = "Work With Us"
 url = "/work-with-us/"
-weight = 16
-
-[[main]]
-  pre = "bluesky"
-  name = ""
-  url = "https://bsky.app/profile/apisproject.bsky.social"
-  weight = 20
+weight = 10
 
   [[main]]
   pre = "x-twitter"
   name = ""
   url = "https://x.com/apisproject_x"
   weight = 30
+
+  [[main]]
+  pre = "bluesky"
+  name = ""
+  url = "https://bsky.app/profile/apisproject.bsky.social"
+  weight = 40
 
 #[[main]]
 #  name = "Parent"
