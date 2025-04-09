@@ -22,7 +22,7 @@ weight = 15
 
 [[main]]
 name = "Our Services"
-url = "our-services.md"
+url = "our-services/"
 weight = 16
 
 [[main]]
