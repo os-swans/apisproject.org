@@ -1,5 +1,6 @@
 ---
 title: "About Us"
+author: null
 ---
 
 # Welcome to the Apis Project
