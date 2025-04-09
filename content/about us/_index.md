@@ -13,4 +13,4 @@ Our mission is to use open-source intelligence (OSINT) tools and methodologies t
 
 ## Contact Us
 
-Got a tip or just want to get in touch? Feel free to reach out to us via email at [apisproject@proton.me](mailto:apisproject@proton.me) or on Bluesky @apisproject.bsky.social.
+Got a tip or just want to get in touch? Feel free to reach out to us via email at [apisproject@proton.me](mailto:apisproject@proton.me), on Bluesky @apisproject.bsky.social, or on X @apisproject_x
