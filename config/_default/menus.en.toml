@@ -27,7 +27,7 @@ weight = 16
 
 [[main]]
 name = "About Us"
-pageRef = "/about/"
+url = "/about/"
 weight = 17
 
 [[main]]
