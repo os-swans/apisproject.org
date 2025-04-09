@@ -16,9 +16,19 @@ pageRef = "investigations"
 weight = 10
 
 [[main]]
+name = "Blog"
+pageRef = "blog"
+weight = 15
+
+[[main]]
+name = "Our Services"
+pageRef = "about us"
+weight = 16
+
+[[main]]
 name = "About Us"
 pageRef = "about us"
-weight = 15
+weight = 17
 
 [[main]]
   pre = "bluesky"
