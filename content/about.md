@@ -1,7 +1,5 @@
 ---
 title: "About Us"
-draft: true
-author: null
 ---
 
 # Welcome to the Apis Project
