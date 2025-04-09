@@ -5,6 +5,5 @@ cascade:
   showDate: true
   ShowWordCount: false
   groupByYear: false
-  featureimage: true
 ---
 
