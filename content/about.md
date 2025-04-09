@@ -3,8 +3,6 @@ title: "About Us"
 draft: false
 ---
 
-# Welcome to the Apis Project
-
 We are a collective of investigators and analysts dedicated to documenting harmful activities by state and non-state actors. Our expertise covers human rights violations, Foreign Information Manipulations and Interference (FIMI), and political developments in fragile and conflict-affected geographies.
 
 ## Our Mission
