@@ -22,12 +22,12 @@ weight = 15
 
 [[main]]
 name = "Our Services"
-pageRef = "about us"
+pageRef = "services"
 weight = 16
 
 [[main]]
 name = "About Us"
-pageRef = "about us"
+pageRef = "about"
 weight = 17
 
 [[main]]
