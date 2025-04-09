@@ -21,8 +21,8 @@ url = "/blog/"
 weight = 15
 
 [[main]]
-name = "Our Services"
-url = "/our-services/"
+name = "Work With Us"
+url = "/work-with-us/"
 weight = 16
 
 [[main]]
