@@ -22,13 +22,8 @@ weight = 15
 
 [[main]]
 name = "Our Services"
-pageRef = "services"
+url = "services.md"
 weight = 16
-
-[[main]]
-name = "About Us"
-url = "/about/"
-weight = 17
 
 [[main]]
   pre = "bluesky"
