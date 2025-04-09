@@ -2,6 +2,8 @@
 title: "First Investigation"
 date: 2025-04-09
 description: "A detailed investigation into a specific topic."
+summary: "This investigation explores key aspects of a critical event, analyzing all available evidence to uncover the truth."
+showSummary: true
 ---
 
 ![Investigation Image](/images/firstinvestigation.jpg)
