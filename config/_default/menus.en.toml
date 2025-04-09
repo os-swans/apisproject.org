@@ -29,13 +29,13 @@ weight = 16
   pre = "bluesky"
   name = ""
   url = "https://bsky.app/profile/apisproject.bsky.social"
-  weight = 30
+  weight = 20
 
   [[main]]
   pre = "x-twitter"
   name = ""
   url = "https://x.com/apisproject_x"
-  weight = 31
+  weight = 30
 
 #[[main]]
 #  name = "Parent"
