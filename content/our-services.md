@@ -1,24 +1,9 @@
 ---
-title: "Our Services"
+title: "Hire Us"
 draft: false
 ---
 
-While our core mission focuses on documenting and exposing harmful practices by state and non-state actors, we also leverage our expertise to provide specialised services for organisations in high-risk environments.
-
-With a proven track record working with international organisations, NGOs, and governments, our team offers:
-
-- **Enhanced Due Diligence Reports** and investigations into entities linked to conflict zones, armed groups, or state actors.
-- **Strategic Trade Risk Assessments** identifying risks in dual-use goods supply chains, front companies, and sanction circumvention tactics.
-- **Red Flag Identification & Country Risk Briefings** on emerging threats, sanctions, and regional actors.
-- **Pre-Transaction Advisory for High-Risk Markets** to support M&A, supply chain, and compliance decisions.
-
-We also provide consulting and tailored training services for media organisations, NGOs, and law enforcement, using our expertise of OSINT tools and methodologies to conduct human rights and conflict analysis.
-
-## Why Choose Us?
-
-- **Multilingual OSINT capabilities** and advanced network analysis
-- **Region-specific expertise** on the Sahel, north and central Africa, Russia, China, and Iran.
-- **Fast turnaround**, discreet handling, and tailored deliverables
+While our core mission focuses on documenting and exposing harmful practices by state and non-state actors, we also leverage our expertise to provide consulting and tailored training services for media organisations and NGOs, using our expertise of OSINT tools and methodologies to conduct human rights and conflict analysis.
 
 ## Want to hire us? 
 Reach out at apisproject@proton.me or on any of our socials.
