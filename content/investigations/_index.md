@@ -1,6 +1,8 @@
 ---
 description: "Welcome to our investigations!"
 cascade:
-  showReadingTime: false
+  showReadingTime: true
+  showDate: false
+  ShowWordCount: false
 ---
 
