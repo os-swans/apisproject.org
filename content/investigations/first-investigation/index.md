@@ -2,7 +2,6 @@
 title: "First Investigation"
 date: 2025-04-09
 description: "A detailed investigation into a specific topic."
-featureimage: "/images/firstinvestigation.jpg"
 ---
 
 ![Investigation Image](/images/firstinvestigation.jpg)
