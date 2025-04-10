@@ -29,7 +29,7 @@ weight = 30
   pre = "x-twitter"
   name = ""
   url = "https://x.com/apisproject_x"
-  weight = 40
+  weight = 35
 
   [[main]]
   pre = "bluesky"
