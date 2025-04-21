@@ -32,28 +32,28 @@ Some clips appear to have been shot at undetermined locations in Mali, where Afr
 
 Amongst the vehicles in the January delivery were several KamAZ ZSA-T “Linza” armored ambulances, a relatively recent variant based on the chassis of Typhoon-K KamAZ-53949 Mine-Resistant Ambush Protected (MRAP) vehicle. Notably, this variant has not been widely exported to West Africa. 
 
-![ac-images](/images/act-images/act.linza1.png)
+![A KamAZ "Linza" armoured ambulance in a convoy of Russian military equipment delivered in January 2025 (source: Cap Mali+ on Facebook).](/images/act-images/act.linza1.png "A KamAZ \"Linza\" armoured ambulance in a convoy of Russian military equipment delivered in January 2025 (source: Cap Mali+ on Facebook).")
 
 The same variant of Linza ambulance is clearly visible in the photos published by KorpusAfrica on 21 March, indicating that they were likely shot in Mali. One of the Russian instructors in the image is wearing a Russian “Medical Services” chevron. Versions of this patch are available for purchase online, but it doesn't appear to be tied to a specific unit. The design surfaced around the time of Russia’s full-scale invasion of Ukraine.
 
-![ac-images](/images/act-images/act.linza2.png)
+![Africa Corps providing medical training in Mali, featuring a KamAZ "Linza" armoured ambulance (source: KorpusAfrica on Telegram).](/images/act-images/act.linza2.png "Africa Corps providing medical training in Mali, featuring a KamAZ \"Linza\" armoured ambulance (source: KorpusAfrica on Telegram).")
 
 Another clip, shot from the inside of a military transport helicopter, shows a Russian soldier operating a Kalashnikov PKM machine gun. The helicopter appears to be a MIL Mi-171Sh, an export variant of the Mi-8AMTSh, likely part of a batch received by the Malian Armed Forces (FAMa) in [2021](https://www.facebook.com/photo?fbid=2069395903209984&set=pcb.2069395996543308). 
 
 [Footage](https://t.me/grey_zone/20520) of Wagner personnel using a similar Mi-8 variant in Mali was shared in September 2023 by Nikita Fedyakin, the administrator of The Grey Zone, a popular Wagner-affiliated Telegram channel.
 
-![ac-images](/images/act-images/act.mi8.png)
+![Left, Africa Corps personnel in an Mi-8AMTSh (source: KorpusAfrica on Telegram); Right, Wagner Group personnel in a different Mi-8 in Mali (source: Grey Zone on Telegram).](/images/act-images/act.mi8.png "Left, Africa Corps personnel in an Mi-8AMTSh (source: KorpusAfrica on Telegram); Right, Wagner Group personnel in a different Mi-8 in Mali (source: Grey Zone on Telegram).")
 
 ### 3: Niger
 Subsequent footage, featuring Russian instructors supervising firearms and first-person view (FPV) drone training, were filmed in Niger, where Africa Corps launched a mission in April 2024.
 
-![ac-images](/images/act-images/act.niger1.png)
+![Africa Corps providing FPV drone and firearms training to Nigerien military personnel (source: KorpusAfrica on Telegram).](/images/act-images/act.niger1.png "Africa Corps providing FPV drone and firearms training to Nigerien military personnel (source: KorpusAfrica on Telegram).")
 
-The pattern of their uniforms suggests that the trainees likely belong to the Nigerien National Guard and Armed Forces (FAN). The footage closely resembles an earlier video published by okspn, a Russian military blogger on Telegram, which was filmed sometime in 2024 at the same location. It is possible that both videos were captured on the same occasion. 
+The pattern of their uniforms suggests that the trainees likely belong to the Nigerien National Guard and Armed Forces (FAN). The footage closely resembles an earlier video published by [okspn](https://t.me/okspn/34814), a Russian military blogger on Telegram, which was filmed sometime in 2024 at the same location. It is possible that both videos were captured on the same occasion. 
 
 Using stills from the earlier video, which contains aerial footage, we geolocated the drills to a shooting range in southwestern Niamey [13.581001, 2.013836], near the Tondibiah military base. The facility is one of Niger’s primary basic training centers, and also houses the National Officers Training School (French: École de Formation des Forces Armées Nigériennes, or  EFOFAN).
 
-![ac-images](/images/act-images/act.niger2.png)
+![Geolocation of Africa Corps firearms training footage filmed in 2024 to southwestern Niamey [13.581001, 2.013836] (source: okspn on Telegram).](/images/act-images/act.niger2.png "Geolocation of Africa Corps firearms training footage filmed in 2024 to southwestern Niamey [13.581001, 2.013836] (source: okspn on Telegram).")
 
 ### 4: Equatorial Guinea
 Footage of Africa Corps training Equatorial Guinea’s military appeared in posts on both 21 March and 4 April 2025. The Equatorial Guinean flag is clearly visible on the trainees’ uniforms.
@@ -62,22 +62,22 @@ Africa Corps personnel have been present in the country since mid-October 2024. 
 
 As in Mali, the earlier post by [KorpusAfrica](https://t.me/KorpusAfrica/929?single) highlighted Africa Corps’ involvement in medical training, showing a trainee practicing medical procedures.
 
-![ac images](/images/act-images/act.eq1.png)
+![Equatorial Guinean soldier demonstrating medical drills under Africa Corps supervision (source: KorpusAfrica on Telegram).](/images/act-images/act.eq1.png "Equatorial Guinean soldier demonstrating medical drills under Africa Corps supervision (source: KorpusAfrica on Telegram).")
 
 The later footage included clips of Russian instructors supervising firearms drills. While we were unable to geolocate the footage, Spanish media outlet [Diario Rombe](https://x.com/DiarioRombe/status/185040622446803807) reported that Africa Corps personnel have been stationed at the Inter Army Military School of General Obiang (EMIGO) in Bata [1.802222, 9.748564].
 
-![ac images](/images/act-images/act.eq2.png)
+![Africa Corps supervising firearms training for Equatorial Guinean soldiers (source: KorpusAfrica on Telegram).](/images/act-images/act.eq2.png "Africa Corps supervising firearms training for Equatorial Guinean soldiers (source: KorpusAfrica on Telegram).")
 
 ## Ukraine War-Inspired Training Drills
 While Russia’s military presence in the region is no secret, the videos reveal unexpected details about the training being provided. In desert scenes likely filmed in Libya or Mali, Russian instructors guide local troops in artillery, FPV drones, drone-dropped munitions, and trench-style tactics.
 
 FPV drones are likely to be extremely useful for reconaissance, and are regularly used by Wagner personnel in the region. The tactic of deploying drone-dropped munitions, typically referring to the use of FPV drones to drop explosive munitions, has become a staple of the conflict in Ukraine. In contrast, such methods remain uncommon in the Sahel region. 
 
+![Training clips showing the use of drone-dropped munitions at an undetermined location (source: KorpusAfrica on Telegram).](/images/act-images/act.loitering.png "Training clips showing the use of drone-dropped munitions at an undetermined location (source: KorpusAfrica on Telegram).")
+
 Even more surprising, one clip shows soldiers advancing through mock trenches. While trench warfare has re-emerged as a feature of the Ukrainian conflict, particularly in eastern Ukraine, it is highly unlikely to have any practical application in the Sahel. 
 
-![ac images](/images/act-images/act.loitering.png)
-
-![ac images](/images/act-images/act.trench.png)
+![Footage of Africa Corps-supervised trench warfare training (source: KorpusAfrica on Telegram).](/images/act-images/act.trench.png "Footage of Africa Corps-supervised trench warfare training (source: KorpusAfrica on Telegram).")
 
 According to [ACLED](https://acleddata.com/conflict-watchlist-2025/sahel-and-coastal-west-africa/), the central Sahel — encompassing Mali, Niger, and Burkina Faso, now operating under the Alliance of Sahel States (AES) — has seen continued attacks from Islamic State’s Sahel affiliate and the al-Qaeda-linked Jama'at Nusrat al-Islam wal Muslimeen (JNIM) throughout 2024 and 2025. Simultaneously, northern Mali has faced a sustained insurgency led by Tuareg and Arab groups since mid-2023.
 
@@ -85,13 +85,13 @@ These are adversaries that favor highly mobile guerrilla tactics, ambushes, and 
 
 In addition to the tactics being taught in the recent clips, some of the military hardware delivered to Mali in January 2025, such as BM-21 "Grad" MLRS, T-72B3 tanks (some of which feature anti-drone “cope cages” frequently seen in Ukraine), and D-30 howitzers, are better suited for conventional warfare.
 
-![ac images](/images/act-images/act.armsmali.png)
+![Left, a BM-21 "Grad" MLRS filmed in Mali by a local (source: chocoblema51 on Tik Tok); Above right, a T-72B3 tank with a "cope cage" filmed on arrival in Bamako in January 2025 (source: Cap Mali+ on Facebook); Bottom right, a D-30 howitzer also filmed on arrival in Bamako in January 2024 (source: Cap Mali+ on Facebook).](/images/act-images/act.armsmali.png "Left, a BM-21 \"Grad\" MLRS filmed in Mali by a local (source: chocoblema51 on Tik Tok); Above right, a T-72B3 tank with a \"cope cage\" filmed on arrival in Bamako in January 2025 (source: Cap Mali+ on Facebook); Bottom right, a D-30 howitzer also filmed on arrival in Bamako in January 2024 (source: Cap Mali+ on Facebook).")
 
 The potential use of the Grad by FAMa and their Russian partners is particularly concerning. The Grad spreads munitions over an area, not a point target, and is therefore not a precision weapon. Its repeated use in populated zones has led to significant civilian deaths and injuries, according to research by [Action on Armed Violence](https://aoav.org.uk/2021/an-anatomy-of-a-grad-attack-global/). 
 
 In contrast, forms of artillery have been used by FAMa's adversaries, such as JNIM, to launch indiscriminate attacks into population centers. In August 2023, for example, the city of Timbuktu was struck by mortar shelling, leading to 1 death and multiple injuries, according to a conflict-monitoring account on [X](https://x.com/Wamaps_news/status/1696506597269205503).
 
-![ac images](/images/act-images/act.artillery.png)
+![Clips of tank and artillery drills published by Africa Corps (source: KorpusAfrica on Telegram).](/images/act-images/act.artillery.png "Clips of tank and artillery drills published by Africa Corps (source: KorpusAfrica on Telegram).")
 
 Nevertheless, Africa Corps is presenting a markedly different public image compared to the Wagner Group, focusing on training missions rather than the combat-heavy content that dominates Wagner’s affiliated Telegram channels. 
 
