@@ -36,11 +36,13 @@ Amongst the vehicles in the January delivery were several KamAZ ZSA-T “Linza�
 
 ![ac-images](/images/act-images/act.linza1.png)
 
-The same Linza ambulance is clearly visible in the photos published by KorpusAfrica on 21 March, indicating that they were likely shot in Mali. One of the Russian instructors in the image is wearing a Russian “Medical Services” chevron. Versions of this patch are available for purchase online, but it doesn't appear to be tied to a specific unit. The design surfaced around the time of Russia’s full-scale invasion of Ukraine.
+The same variant of Linza ambulance is clearly visible in the photos published by KorpusAfrica on 21 March, indicating that they were likely shot in Mali. One of the Russian instructors in the image is wearing a Russian “Medical Services” chevron. Versions of this patch are available for purchase online, but it doesn't appear to be tied to a specific unit. The design surfaced around the time of Russia’s full-scale invasion of Ukraine.
 
 ![ac-images](/images/act-images/act.linza2.png)
 
-Another clip, shot from the inside of a military transport helicopter, shows a Russian soldier operating a Kalashnikov PKM machine gun. The helicopter appears to be a MIL Mi-171Sh, an export variant of the Mi-8AMTSh, likely part of a batch received by the Malian Armed Forces (FAMa) in [2021](https://www.facebook.com/photo?fbid=2069395903209984&set=pcb.2069395996543308). [Footage](https://t.me/grey_zone/20520) of Wagner personnel using a similar Mi-8 variant in Mali was shared in September 2023 by Nikita Fedyakin, the administrator of The Grey Zone, a popular Wagner-affiliated Telegram channel.
+Another clip, shot from the inside of a military transport helicopter, shows a Russian soldier operating a Kalashnikov PKM machine gun. The helicopter appears to be a MIL Mi-171Sh, an export variant of the Mi-8AMTSh, likely part of a batch received by the Malian Armed Forces (FAMa) in [2021](https://www.facebook.com/photo?fbid=2069395903209984&set=pcb.2069395996543308). 
+
+[Footage](https://t.me/grey_zone/20520) of Wagner personnel using a similar Mi-8 variant in Mali was shared in September 2023 by Nikita Fedyakin, the administrator of The Grey Zone, a popular Wagner-affiliated Telegram channel.
 
 ![ac-images](/images/act-images/act.mi8.png)
 
@@ -69,9 +71,11 @@ The later footage included clips of Russian instructors supervising firearms dri
 ![ac images](/images/act-images/act.eq2.png)
 
 ## Ukraine War-Inspired Training Drills
-While Russia’s military presence in the region is no secret, the videos reveal unexpected details about the training being provided. In desert scenes likely filmed in Libya or Mali, Russian instructors guide local troops in artillery, FPV drones, loitering munitions, and trench-style tactics.
+While Russia’s military presence in the region is no secret, the videos reveal unexpected details about the training being provided. In desert scenes likely filmed in Libya or Mali, Russian instructors guide local troops in artillery, FPV drones, drone-dropped munitions, and trench-style tactics.
 
-While FPV drones might be useful for reconaissance, and are regularly used by Wagner in the region, trench warfare and long-range artillery have limited use in this kind of conflict.
+FPV drones are likely to be extremely useful for reconaissance, and are regularly used by Wagner personnel in the region. The tactic of deploying drone-dropped munitions, typically referring to the use of FPV drones to drop explosive munitions, has become a staple of the conflict in Ukraine. In contrast, such methods remain uncommon in the Sahel region. 
+
+Even more surprising, one clip shows soldiers advancing through mock trenches. While trench warfare has re-emerged as a feature of the Ukrainian conflict, particularly in eastern Ukraine, it is highly unlikely to have any practical application in the Sahel. 
 
 ![ac images](/images/act-images/act.loitering.png)
 
@@ -83,9 +87,11 @@ These are adversaries that favor highly mobile guerrilla tactics, ambushes, and 
 
 In addition to the tactics being taught in the recent clips, some of the military hardware delivered to Mali in January 2025, such as BM-21 "Grad" MLRS, T-72B3 tanks (some of which feature anti-drone “cope cages” frequently seen in Ukraine), and D-30 howitzers, are better suited for conventional warfare.
 
+![ac images](/images/act-images/act.armsmali.png)
+
 The potential use of the Grad by FAMa and their Russian partners is particularly concerning. The Grad spreads munitions over an area, not a point target, and is therefore not a precision weapon. Its repeated use in populated zones has led to significant civilian deaths and injuries, according to research by [Action on Armed Violence](https://aoav.org.uk/2021/an-anatomy-of-a-grad-attack-global/). 
 
-![ac images](/images/act-images/act.armsmali.png)
+In contrast, forms of artillery have been used by FAMa's adversaries, such as JNIM, to launch indiscriminate attacks into population centers. In August 2023, for example, the city of Timbuktu was struck by mortar shelling, leading to 1 death and multiple injuries, according to a conflict-monitoring account on [X](https://x.com/Wamaps_news/status/1696506597269205503).
 
 ![ac images](/images/act-images/act.artillery.png)
 
