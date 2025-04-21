@@ -15,8 +15,6 @@ The footage, posted to Telegram in March and April 2025, provides a rare glimpse
 
 {{< carousel images="carousel*.png" >}}
 
----
-
 The instructors belong to Africa Corps, a structure formed in September 2023 by Russia’s Defence Ministry to coordinate Russian expeditionary missions in Africa and the Middle East. One of Africa Corps’ key ambitions is to take over the Wagner Group’s footprint in Africa following the death of its leader, Yevgeny Prigozhin. 
 
 Since 2018, Wagner personnel have been deployed across the continent, from the Central African Republic to Mali, Sudan, Mozambique, and Libya. Its operations in Africa are in decline, now confined to Mali and the Central African Republic. 
