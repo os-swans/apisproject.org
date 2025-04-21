@@ -10,6 +10,8 @@ Across various scenes filmed in desert and tropical landscapes, groups of recrui
 
 The footage, posted to Telegram in March and April 2025, provides a rare glimpse into Russia’s growing military presence in Africa.
 
+{{< carousel images="{/images/act-images/act.aljufra.png, /images/act-images/act.linza1.png, /images/act-images/act.linza2.png, /images/act-images/act.mi8.png, /images/act-images/act.niger1.png, /images/act-images/act.niger2.png, /images/act-images/act.eq1.png, /images/act-images/act.eq2.png, /images/act-images/act.loitering.png, /images/act-images/act.trench.png, /images/act-images/act.armsmali.png, /images/act-images/act.artillery.png}" >}}
+
 ---
 
 The instructors belong to Africa Corps, a structure formed in September 2023 by Russia’s Defence Ministry to coordinate Russian expeditionary missions in Africa and the Middle East. One of Africa Corps’ key ambitions is to take over the Wagner Group’s footprint in Africa following the death of its leader, Yevgeny Prigozhin. 
