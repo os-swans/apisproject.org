@@ -5,4 +5,4 @@ We are a collective of investigators and analysts dedicated to documenting harmf
 
 Our mission is to use open-source intelligence (OSINT) tools and methodologies to monitor harmful activities and expose those responsible for them.
 
-Got a tip or want to get in touch? Reach out to us via email at [apisproject@proton.me](mailto:apisproject@proton.me), on Bluesky @apisproject.bsky.social, or on X @apisproject_x.
+Got a tip or want to get in touch? Reach out to us via email at [apisproject@proton.me](mailto:apisproject@proton.me), on Bluesky [@apisproject.bsky.social](https://bsky.app/profile/apisproject.bsky.social), or on X @apisproject_x.
