@@ -1,5 +1,5 @@
 ---
-title: "Drone-Dropped Munitions, Artillery, and Trenches: Russia’s Africa Corps Trains African Forces in Ukraine War-Inspired Tactics"
+title: "Russia’s Africa Corps Trains African Forces in Ukraine War-Inspired Tactics"
 date: 2025-04-21
 description: "An investigation into Africa Corps training videos in Africa showing Russia's military training local forces in Ukraine war-inspired tactics"
 summary: "Russia’s Africa Corps is training African forces in countries like Mali, Niger, Libya, and Equatorial Guinea using Ukraine war-inspired tactics and equipment."
@@ -14,7 +14,9 @@ The footage, posted to Telegram in March and April 2025, provides a rare glimpse
 
 The instructors belong to Africa Corps, a structure formed in September 2023 by Russia’s Defence Ministry to coordinate Russian expeditionary missions in Africa and the Middle East. One of Africa Corps’ key ambitions is to take over the Wagner Group’s footprint in Africa following the death of its leader, Yevgeny Prigozhin. 
 
-Since 2018, Wagner personnel have been deployed across the continent, from the Central African Republic to Mali, Sudan, Mozambique, and Libya. Its operations in Africa are in decline, now confined to Mali and the Central African Republic. In contrast, Africa Corps has expanded throughout 2024 and 2025, announcing missions in Burkina Faso, Niger, and Equatorial Guinea, while also reinforcing deployments in Libya and Mali.
+Since 2018, Wagner personnel have been deployed across the continent, from the Central African Republic to Mali, Sudan, Mozambique, and Libya. Its operations in Africa are in decline, now confined to Mali and the Central African Republic. 
+
+In contrast, Africa Corps has expanded throughout 2024 and 2025, announcing missions in Burkina Faso, Niger, and Equatorial Guinea, while also reinforcing deployments in Libya and Mali.
 
 ---
 
@@ -36,11 +38,13 @@ Since early 2024, thousands of Russian military personnel have been transferred 
 ### 2: Mali
 Some clips appear to have been shot at undetermined locations in Mali, where Africa Corps has bolstered its presence since December 2024. In January 2025, over 100 Russian military vehicles were filmed arriving in Bamako after being unloaded at Guinea’s Port of Conakry. 
 
-Amongst the vehicles in the January delivery were several KamAZ ZSA-T “Linza” armored ambulances, a relatively recent variant based on the chassis of Typhoon-K KamAZ-53949 Mine-Resistant Ambush Protected (MRAP) vehicle. Notably, this variant has not been widely exported to West Africa. 
+Amongst the vehicles in the January delivery were several KamAZ ZSA-T “Linza” armored ambulances, a relatively recent variant based on the chassis of Typhoon-K KamAZ-53949 Mine-Resistant Ambush Protected (MRAP) vehicle.
 
 ![A KamAZ "Linza" armoured ambulance in a convoy of Russian military equipment delivered in January 2025 (source: Cap Mali+ on Facebook).](/images/act-images/act.linza1.png "A KamAZ \"Linza\" armoured ambulance in a convoy of Russian military equipment delivered in January 2025 (source: Cap Mali+ on Facebook).")
 
-The same variant of Linza ambulance is clearly visible in the photos published by KorpusAfrica on 21 March, indicating that they were likely shot in Mali. One of the Russian instructors in the image is wearing a Russian “Medical Services” chevron. Versions of this patch are available for purchase online, but it doesn't appear to be tied to a specific unit. The design surfaced around the time of Russia’s full-scale invasion of Ukraine.
+The same variant of Linza ambulance is clearly visible in the photos published by KorpusAfrica on 21 March. As this variant has not been exported to any other West African country, the images were highly likely shot in Mali. 
+
+One of the Russian instructors in the image is wearing a Russian “Medical Services” chevron. Versions of this patch are available for purchase online, but it doesn't appear to be tied to a specific unit. The design surfaced around the time of Russia’s full-scale invasion of Ukraine.
 
 ![Africa Corps providing medical training in Mali, featuring a KamAZ "Linza" armoured ambulance (source: KorpusAfrica on Telegram).](/images/act-images/act.linza2.png "Africa Corps providing medical training in Mali, featuring a KamAZ \"Linza\" armoured ambulance (source: KorpusAfrica on Telegram).")
 
@@ -95,12 +99,16 @@ In addition to the tactics being taught in the recent clips, some of the militar
 
 ![Left, a BM-21 "Grad" MLRS filmed in Mali by a local (source: chocoblema51 on Tik Tok); Above right, a T-72B3 tank with a "cope cage" filmed on arrival in Bamako in January 2025 (source: Cap Mali+ on Facebook); Bottom right, a D-30 howitzer also filmed on arrival in Bamako in January 2024 (source: Cap Mali+ on Facebook).](/images/act-images/act.armsmali.png "Left, a BM-21 \"Grad\" MLRS filmed in Mali by a local (source: chocoblema51 on Tik Tok); Above right, a T-72B3 tank with a \"cope cage\" filmed on arrival in Bamako in January 2025 (source: Cap Mali+ on Facebook); Bottom right, a D-30 howitzer also filmed on arrival in Bamako in January 2024 (source: Cap Mali+ on Facebook).")
 
-The potential use of the Grad by FAMa and their Russian partners is particularly concerning. The Grad spreads munitions over an area, not a point target, and is therefore not a precision weapon. Its repeated use in populated zones has led to significant civilian deaths and injuries, according to research by [Action on Armed Violence](https://aoav.org.uk/2021/an-anatomy-of-a-grad-attack-global/). 
+The potential use of the Grad by FAMa and their Russian partners is of particular concern. The Grad spreads munitions over an area, not a point target, and is therefore not a precision weapon. Its repeated use in populated zones has led to significant civilian deaths and injuries, according to research by [Action on Armed Violence](https://aoav.org.uk/2021/an-anatomy-of-a-grad-attack-global/). 
 
 In contrast, forms of artillery have been used by FAMa's adversaries, such as JNIM, to launch indiscriminate attacks into population centers. In August 2023, for example, the city of Timbuktu was struck by mortar shelling, leading to 1 death and multiple injuries, according to a conflict-monitoring account on [X](https://x.com/Wamaps_news/status/1696506597269205503).
 
 ![Clips of tank and artillery drills published by Africa Corps (source: KorpusAfrica on Telegram).](/images/act-images/act.artillery.png "Clips of tank and artillery drills published by Africa Corps (source: KorpusAfrica on Telegram).")
 
-Nevertheless, Africa Corps is presenting a markedly different public image compared to the Wagner Group, focusing on training missions rather than the combat-heavy content that dominates Wagner’s affiliated Telegram channels. 
+---
 
-Whether these training sessions, and Africa Corps as a whole, will meaningfully address local security concerns remains uncertain, particularly as its predecessor, the Wagner Group, has been unable to contain escalating violence in Mali. 
+Nevertheless, Africa Corps is presenting a markedly different public image compared to the Wagner Group, focusing on training missions rather than the combat-heavy content that dominates Wagner’s affiliated Telegram channels. The shift may represent an attempt to rebrand Russia's military presence, distancing Africa Corps from the notoriously heavy-handed Wagner Group.
+
+Despite its limited effectiveness in confronting regional threats, the emphasis on heavy equipment signals Russia’s willingness to arm its African allies without conditions. Sahelian leaders have accused Western governments of offering support but holding back on offensive arms.
+
+It remains uncertain whether Africa Corps’ recent expansion and training efforts will meaningfull address local security concerns, particularly as its predecessor, the Wagner Group, has been unable to contain escalating violence in Mali.
