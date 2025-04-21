@@ -1,18 +1,24 @@
 ---
-title: "Drone-Dropped Munitions, Artillery, and Trenches: Russia’s Military Trains African Forces in Ukraine War-Inspired Tactics"
+title: "Drone-Dropped Munitions, Artillery, and Trenches: Russia’s Africa Corps Trains African Forces in Ukraine War-Inspired Tactics"
 date: 2025-04-21
 description: "An investigation into Africa Corps training videos in Africa showing Russia's military training local forces in Ukraine war-inspired tactics"
-summary: "Russia’s Africa Corps is training African forces in countries like Mali, Niger, Libya, and Equatorial Guinea using Ukraine war-inspired tactics and equipment, signaling a strategic communcations shift from Wagner-style combat operations to structured military training missions."
+summary: "Russia’s Africa Corps is training African forces in countries like Mali, Niger, Libya, and Equatorial Guinea using Ukraine war-inspired tactics and equipment."
 showSummary: true
 ---
 
-In videos posted to Telegram in March and April 2025, Russian military instructors are shown leading local troops through combat exercises, medical training, and equipment training. The footage, filmed across various desert and tropical settings, offers a rare glimpse into Russia’s expanding military presence in Africa.
+Across various scenes filmed in desert and tropical landscapes, groups of recruits make their way through weapons drills, medical procedures, and technical exercises. The trainees are shown practicing CPR, flying drones, and maneuvering through makeshift trenches, all under the supervision of Russian military instructors.
+
+The footage, posted to Telegram in March and April 2025, provides a rare glimpse into Russia’s growing military presence in Africa.
+
+---
 
 The instructors belong to Africa Corps, a structure formed in September 2023 by Russia’s Defence Ministry to coordinate Russian expeditionary missions in Africa and the Middle East. One of Africa Corps’ key ambitions is to take over the Wagner Group’s footprint in Africa following the death of its leader, Yevgeny Prigozhin. 
 
 Since 2018, Wagner personnel have been deployed across the continent, from the Central African Republic to Mali, Sudan, Mozambique, and Libya. Its operations in Africa are in decline, now confined to Mali and the Central African Republic. In contrast, Africa Corps has expanded throughout 2024 and 2025, announcing missions in Burkina Faso, Niger, and Equatorial Guinea, while also reinforcing deployments in Libya and Mali.
 
-## The footage
+---
+
+## Analysing and geolocating the footage
 
 A 21 March post by [KorpusAfrica](https://t.me/KorpusAfrica/929), the self-described official Russian-language Telegram channel of Africa Corps, includes images of a medical training session in Mali and a short video from Equatorial Guinea. Another [post](https://t.me/KorpusAfrica/944), dated 4 April, presents a montage of training scenes filmed at several different locations. 
 
@@ -67,6 +73,8 @@ As in Mali, the earlier post by [KorpusAfrica](https://t.me/KorpusAfrica/929?sin
 The later footage included clips of Russian instructors supervising firearms drills. While we were unable to geolocate the footage, Spanish media outlet [Diario Rombe](https://x.com/DiarioRombe/status/185040622446803807) reported that Africa Corps personnel have been stationed at the Inter Army Military School of General Obiang (EMIGO) in Bata [1.802222, 9.748564].
 
 ![Africa Corps supervising firearms training for Equatorial Guinean soldiers (source: KorpusAfrica on Telegram).](/images/act-images/act.eq2.png "Africa Corps supervising firearms training for Equatorial Guinean soldiers (source: KorpusAfrica on Telegram).")
+
+---
 
 ## Ukraine War-Inspired Training Drills
 While Russia’s military presence in the region is no secret, the videos reveal unexpected details about the training being provided. In desert scenes likely filmed in Libya or Mali, Russian instructors guide local troops in artillery, FPV drones, drone-dropped munitions, and trench-style tactics.
