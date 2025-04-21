@@ -112,6 +112,6 @@ In contrast, forms of artillery have been used by FAMa's adversaries, such as JN
 
 Nevertheless, Africa Corps is presenting a markedly different public image compared to the Wagner Group, focusing on training missions rather than the combat-heavy content that dominates Wagner’s affiliated Telegram channels. The shift may represent an attempt to rebrand Russia's military presence, distancing Africa Corps from the notoriously heavy-handed Wagner Group.
 
-Despite its limited effectiveness in confronting regional threats, the emphasis on heavy equipment signals Russia’s willingness to arm its African allies without conditions. Sahelian leaders have accused Western governments of offering support but holding back on offensive arms.
+Although much of the showcased equipment is poorly suited to counter regional threats, Africa Corps’ focus on heavy weapons highlights Russia’s willingness to supply its African allies without restrictions. Sahelian leaders have long accused Western governments of offering support but holding back on offensive arms.
 
 It remains uncertain whether Africa Corps’ recent expansion and training efforts will meaningfull address local security concerns, particularly as its predecessor, the Wagner Group, has been unable to contain escalating violence in Mali.
