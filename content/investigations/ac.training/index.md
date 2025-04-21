@@ -77,7 +77,7 @@ As in Mali, the earlier post by [KorpusAfrica](https://t.me/KorpusAfrica/929?sin
 
 ![Equatorial Guinean soldier demonstrating medical drills under Africa Corps supervision (source: KorpusAfrica on Telegram).](/images/act-images/act.eq1.png "Equatorial Guinean soldier demonstrating medical drills under Africa Corps supervision (source: KorpusAfrica on Telegram).")
 
-The later footage included clips of Russian instructors supervising firearms drills. While we were unable to geolocate the footage, Spanish media outlet [Diario Rombe](https://x.com/DiarioRombe/status/185040622446803807) reported that Africa Corps personnel have been stationed at the Inter Army Military School of General Obiang (EMIGO) in Bata [1.802222, 9.748564].
+The later footage included clips of Russian instructors supervising firearms drills. While we were unable to geolocate the footage, Spanish media outlet [Diario Rombe](https://x.com/DiarioRombe/status/1850406224468038077) reported that Africa Corps personnel have been stationed at the Inter Army Military School of General Obiang (EMIGO) in Bata [1.802222, 9.748564].
 
 ![Africa Corps supervising firearms training for Equatorial Guinean soldiers (source: KorpusAfrica on Telegram).](/images/act-images/act.eq2.png "Africa Corps supervising firearms training for Equatorial Guinean soldiers (source: KorpusAfrica on Telegram).")
 
