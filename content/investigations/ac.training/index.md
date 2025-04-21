@@ -4,13 +4,16 @@ date: 2025-04-21
 description: "An investigation into Africa Corps training videos in Africa showing Russia's military training local forces in Ukraine war-inspired tactics"
 summary: "Russia’s Africa Corps is training African forces in countries like Mali, Niger, Libya, and Equatorial Guinea using Ukraine war-inspired tactics and equipment."
 showSummary: true
+resources:
+  - src: "carousel*.png"
+    name: "carousel"
 ---
 
 Across various scenes filmed in desert and tropical landscapes, groups of recruits make their way through weapons drills, medical procedures, and technical exercises. The trainees are shown practicing CPR, flying drones, and maneuvering through makeshift trenches, all under the supervision of Russian military instructors.
 
 The footage, posted to Telegram in March and April 2025, provides a rare glimpse into Russia’s growing military presence in Africa.
 
-{{< carousel images="carousel1.png, carousel2.png, carousel3.png, carousel4.png, carousel5.png" >}}
+{{< carousel images="carousel1.png" "carousel2.png" "carousel3.png" "carousel4.png" "carousel5.png" >}}
 
 ---
 
