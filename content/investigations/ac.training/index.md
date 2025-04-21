@@ -86,7 +86,7 @@ The later footage included clips of Russian instructors supervising firearms dri
 ## Ukraine War-Inspired Training Drills
 While Russia’s military presence in the region is no secret, the videos reveal unexpected details about the training being provided. In desert scenes likely filmed in Libya or Mali, Russian instructors guide local troops in artillery, FPV drones, drone-dropped munitions, and trench-style tactics.
 
-FPV drones are likely to be extremely useful for reconaissance, and are regularly used by Wagner personnel in the region. The tactic of deploying drone-dropped munitions, typically referring to the use of FPV drones to drop explosive munitions, has become a staple of the conflict in Ukraine. In contrast, such methods remain uncommon in the Sahel region. 
+FPV drones are likely to be extremely useful for reconaissance, and are regularly used by Wagner personnel in the region. The tactic of deploying drone-dropped munitions, typically referring to the use of commercial drones to drop explosive munitions, has become a staple of the conflict in Ukraine. In contrast, such methods remain uncommon in the Sahel region. 
 
 ![Training clips showing the use of drone-dropped munitions at an undetermined location (source: KorpusAfrica on Telegram).](/images/act-images/act.loitering.png "Training clips showing the use of drone-dropped munitions at an undetermined location (source: KorpusAfrica on Telegram).")
 
