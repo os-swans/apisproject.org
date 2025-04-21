@@ -23,7 +23,7 @@ A short excerpt shows at least two trucks, both carrying Russian-made BM-21 “G
 
 The angle of the runway, as well as key features beside it, match the southern portion of Al Jufra airbase, Libya [29.182970, 16.020382]. Controlled by Khalifa Haftar of the Benghazi-based Libyan National Army (LNA), a key Russian ally, the base is a known hub for Russian military flights to other parts of Africa. 
 
-![ac-images](/images/act-images/act.aljufra.png)
+![A BM-21 'Grad' MLRS at Al Jufra airbase, Libya (source: KorpusAfrica on Telegram).](/images/act-images/act.aljufra.png "A BM-21 'Grad' MLRS at Al Jufra airbase, Libya (source: KorpusAfrica on Telegram).")
 
 Since early 2024, thousands of Russian military personnel have been transferred to Libya, according to investigations by [All Eyes on Wagner](https://alleyesonwagner.org/2024/05/10/mediterranean-sea-objective-for-the-african-corps/), a French open-source monitoring project. Russian military elements were reported at various LNA-controlled bases, including Al Jufra, Al Khadim, and Tobruk.
 
