@@ -25,8 +25,6 @@ The angle of the runway, as well as key features beside it, match the southern p
 
 ![ac-images](/images/act-images/act.aljufra.png)
 
-{{< figure src="/images/act-images/act.aljufra.png" title="A BM-21 "Grad" MLRS at Al Jufra airbase, Libya (source: KorpusAfrica on Telegram." alt="ac-images" >}}
-
 Since early 2024, thousands of Russian military personnel have been transferred to Libya, according to investigations by [All Eyes on Wagner](https://alleyesonwagner.org/2024/05/10/mediterranean-sea-objective-for-the-african-corps/), a French open-source monitoring project. Russian military elements were reported at various LNA-controlled bases, including Al Jufra, Al Khadim, and Tobruk.
 
 ### 2: Mali
