@@ -1,5 +1,5 @@
 ---
-title: "Russia’s Africa Corps Trains African Forces in Ukraine War-Inspired Tactics"
+title: "Russia’s Africa Corps Is Training African Forces in Ukraine War-Inspired Tactics"
 date: 2025-04-21
 description: "An investigation into Africa Corps training videos in Africa showing Russia's military training local forces in Ukraine war-inspired tactics"
 summary: "Russia’s Africa Corps is training African forces in countries like Mali, Niger, Libya, and Equatorial Guinea using Ukraine war-inspired tactics and equipment."
