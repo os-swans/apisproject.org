@@ -13,7 +13,7 @@ Across various scenes filmed in desert and tropical landscapes, groups of recrui
 
 The footage, posted to Telegram in March and April 2025, provides a rare glimpse into Russia’s growing military presence in Africa.
 
-{{< carousel images="carousel([1-9]|1[0-9]|2[0-9])\.png" >}}
+{{< carousel images="carousel*.png" >}}
 
 ---
 
