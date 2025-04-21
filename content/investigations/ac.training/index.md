@@ -1,5 +1,5 @@
 ---
-title: "From Trenches to Drones: Russia’s Military Trains African Forces in Ukraine War-Inspired Tactics"
+title: "Drone-Dropped Munitions, Artillery, and Trenches: Russia’s Military Trains African Forces in Ukraine War-Inspired Tactics"
 date: 2025-04-21
 description: "An investigation into Africa Corps training videos in Africa showing Russia's military training local forces in Ukraine war-inspired tactics"
 summary: "Russia’s Africa Corps is training African forces in countries like Mali, Niger, Libya, and Equatorial Guinea using Ukraine war-inspired tactics and equipment, signaling a strategic communcations shift from Wagner-style combat operations to structured military training missions."
