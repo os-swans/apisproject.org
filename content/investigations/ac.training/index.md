@@ -94,7 +94,7 @@ Even more surprising, one clip shows soldiers advancing through mock trenches. W
 
 ![Footage of Africa Corps-supervised trench warfare training (source: KorpusAfrica on Telegram).](/images/act-images/act.trench.png "Footage of Africa Corps-supervised trench warfare training (source: KorpusAfrica on Telegram).")
 
-According to [Armed Conflict Location & Event Data](https://acleddata.com/conflict-watchlist-2025/sahel-and-coastal-west-africa/) (ACLED), the central Sahel — encompassing Mali, Niger, and Burkina Faso, now operating under the Alliance of Sahel States (AES) — has seen continued attacks from Islamic State’s Sahel affiliate and the al-Qaeda-linked Jama'at Nusrat al-Islam wal Muslimeen (JNIM) throughout 2024 and 2025. Simultaneously, northern Mali has faced a sustained insurgency led by Tuareg and Arab groups since mid-2023.
+According to [Armed Conflict Location & Event Data](https://acleddata.com/conflict-watchlist-2025/sahel-and-coastal-west-africa/) (ACLED), the central Sahel — encompassing Mali, Niger, and Burkina Faso, now operating under the Alliance of Sahel States (AES) — has seen continued attacks from Islamic State’s Sahel affiliate and the al-Qaeda-linked Jama'at Nusrat al-Islam wal Muslimeen (JNIM) throughout 2023 and 2024. Simultaneously, northern Mali has faced a sustained insurgency led by Tuareg and Arab groups since mid-2023.
 
 These are adversaries that favor highly mobile guerrilla tactics, ambushes, and improvised explosive devices (IEDs) in hard-to-reach areas. The July 2024 Battle of Tin Zaouatine, for example, saw approximately 84 Wagner personnel and 47 Malian soldiers killed in an ambush in a remote part of northern Mali.
 
