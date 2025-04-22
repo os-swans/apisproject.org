@@ -114,4 +114,4 @@ Nevertheless, Africa Corps is presenting a markedly different public image compa
 
 Although much of the showcased equipment is poorly suited to counter regional threats, Africa Corps’ focus on heavy weapons highlights Russia’s willingness to supply its African allies without restrictions. Sahelian leaders have long accused Western governments of offering support but holding back on offensive arms.
 
-It remains uncertain whether Africa Corps’ recent expansion and training efforts will meaningfull address local security concerns, particularly as its predecessor, the Wagner Group, has been unable to contain escalating violence in Mali.
+It remains uncertain whether Africa Corps’ recent expansion and training efforts will meaningfully address local security concerns, particularly as its predecessor, the Wagner Group, has been unable to contain escalating violence in Mali.
