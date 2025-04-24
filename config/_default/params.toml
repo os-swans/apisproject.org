@@ -15,7 +15,7 @@ enableCodeCopy = false
 replyByEmail = false
 
 mainSections = ["investigations", "blog"]
-# robots = ""
+#robots = ""
 
 disableImageOptimization = false
 disableTextInHeader = false
@@ -156,7 +156,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # globalWidgetPosition = "Right"
 
 [verification]
-  # google = ""
+  google = "google-site-verification=X37vTVkXsWcU3Q4uycs499gMJOb_Vsw-DqcGFNwmkK0"
   # bing = ""
   # pinterest = ""
   # yandex = ""
