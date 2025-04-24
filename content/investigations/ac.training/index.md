@@ -53,7 +53,7 @@ One of the Russian instructors in the image is wearing a Russian “Medical Serv
 
 Another clip, shot from the inside of a military transport helicopter, shows a Russian soldier operating a Kalashnikov PKM machine gun. The helicopter appears to be a MIL Mi-171Sh, an export variant of the Mi-8AMTSh, likely part of a batch received by the Malian Armed Forces (FAMa) in [2021](https://www.facebook.com/photo?fbid=2069395903209984&set=pcb.2069395996543308). 
 
-[Footage](https://t.me/grey_zone/20520) of Wagner personnel using a similar Mi-8 variant in Mali was shared in September 2023 by Nikita Fedyakin, the administrator of The Grey Zone, a popular Wagner-affiliated Telegram channel.
+<a href="https://t.me/grey_zone/20520" rel="nofollow">Footage</a> of Wagner personnel using a similar Mi-8 variant in Mali was shared in September 2023 by Nikita Fedyakin, the administrator of The Grey Zone, a popular Wagner-affiliated Telegram channel.
 
 ![Left, Africa Corps personnel in an Mi-8AMTSh (source: KorpusAfrica on Telegram); Right, Wagner Group personnel in a different Mi-8 in Mali (source: Grey Zone on Telegram).](/images/act-images/act.mi8.png "Left, Africa Corps personnel in an Mi-8AMTSh (source: KorpusAfrica on Telegram); Right, Wagner Group personnel in a different Mi-8 in Mali (source: Grey Zone on Telegram).")
 
@@ -62,7 +62,7 @@ Subsequent footage, featuring Russian instructors supervising firearms and first
 
 ![Africa Corps providing FPV drone and firearms training to Nigerien military personnel (source: KorpusAfrica on Telegram).](/images/act-images/act.niger1.png "Africa Corps providing FPV drone and firearms training to Nigerien military personnel (source: KorpusAfrica on Telegram).")
 
-The pattern of their uniforms suggests that the trainees likely belong to the Nigerien National Guard and Armed Forces (FAN). The footage closely resembles an earlier video published by [okspn](https://t.me/okspn/34814), a Russian military blogger on Telegram, which was filmed sometime in 2024 at the same location. It is possible that both videos were captured on the same occasion. 
+The pattern of their uniforms suggests that the trainees likely belong to the Nigerien National Guard and Armed Forces (FAN). The footage closely resembles an earlier video published by <a href="https://t.me/okspn/34814" rel="nofollow">okspn</a>, a Russian military blogger on Telegram, which was filmed sometime in 2024 at the same location. It is possible that both videos were captured on the same occasion. 
 
 Using stills from the earlier video, which contains aerial footage, we geolocated the drills to a shooting range in southwestern Niamey [13.581001, 2.013836], near the Tondibiah military base. The facility is one of Niger’s primary basic training centers, and also houses the National Officers Training School (French: École de Formation des Forces Armées Nigériennes, or  EFOFAN).
 
@@ -73,7 +73,7 @@ Footage of Africa Corps training Equatorial Guinea’s military appeared in post
 
 Africa Corps personnel have been present in the country since mid-October 2024. According to reporting by [Reuters](https://www.reuters.com/world/russian-power-creeps-across-west-africa-with-equatorial-guinea-mission-2024-11-12/), citing unnamed sources, their main role is to provide protective services to Vice-President Teodoro Nguema Obiang Mangue.
 
-As in Mali, the earlier post by [KorpusAfrica](https://t.me/KorpusAfrica/929?single) highlighted Africa Corps’ involvement in medical training, showing a trainee practicing medical procedures.
+As in Mali, the earlier post by <a href="https://t.me/KorpusAfrica/929?single" rel="nofollow">KorpusAfrica</a> highlighted Africa Corps’ involvement in medical training, showing a trainee practicing medical procedures.
 
 ![Equatorial Guinean soldier demonstrating medical drills under Africa Corps supervision (source: KorpusAfrica on Telegram).](/images/act-images/act.eq1.png "Equatorial Guinean soldier demonstrating medical drills under Africa Corps supervision (source: KorpusAfrica on Telegram).")
 
