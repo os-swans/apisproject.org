@@ -25,7 +25,7 @@ In contrast, Africa Corps has expanded throughout 2024 and 2025, announcing miss
 
 ## Analysing and geolocating the footage
 
-A 21 March post by [KorpusAfrica](https://t.me/KorpusAfrica/929), the self-described official Russian-language Telegram channel of Africa Corps, includes images of a medical training session in Mali and a short video from Equatorial Guinea. Another [post](https://t.me/KorpusAfrica/944), dated 4 April, presents a montage of training scenes filmed at several different locations. 
+A 21 March post by <a href="https://t.me/KorpusAfrica/929" rel="nofollow">KorpusAfrica</a>, the self-described official Russian-language Telegram channel of Africa Corps, includes images of a medical training session in Mali and a short video from Equatorial Guinea. Another <a href="https://t.me/KorpusAfrica/944" rel="nofollow">post</a>, dated 4 April, presents a montage of training scenes filmed at several different locations. 
 
 We can dissect the footage into 4 locations:
 
