@@ -49,6 +49,7 @@
   </section>
 
   <footer class="pt-8 max-w-prose print:hidden">
+    {{ partial "sharing-links.html" . }}
     {{ partial "article-pagination.html" . }}
     {{ if .Params.showComments | default (.Site.Params.article.showComments | default false) }}
     {{ if templates.Exists "partials/comments.html" }}
