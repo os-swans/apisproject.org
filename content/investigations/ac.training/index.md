@@ -7,6 +7,10 @@ showSummary: true
 resources:
   - src: "carousel*.png"
     name: "carousel"
+sharingLinks:
+  - twitter
+  - bluesky
+  - linkedin
 ---
 
 Across various scenes filmed in desert and tropical landscapes, groups of recruits make their way through weapons drills, medical procedures, and technical exercises. The trainees are shown practicing CPR, flying drones, and maneuvering through makeshift trenches, all under the supervision of Russian military instructors.
